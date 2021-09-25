@@ -1,0 +1,29 @@
+.col{
+    float: left;
+}
+
+.line-h{
+    width: 120px;
+    height: 40px;
+}
+
+.line-v{
+    height: 160px;
+    width : 40px;
+}
+
+.btn{
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+#display{
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 40px;
+    width: 160px;
+    line-height: 40px;
+    text-align: end;
+}
